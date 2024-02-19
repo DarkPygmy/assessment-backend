@@ -1,4 +1,4 @@
-const characters = require("./db.json")
+const characters = require("./db1.json")
 
 
 module.exports = {
