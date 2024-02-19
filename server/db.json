@@ -1,0 +1,12 @@
+[
+    {
+        "cname": "dude",
+        "str": 20,
+        "dex": 10,
+        "consti": 21,
+        "int": 20,
+        "wis":10,
+        "char": 10,
+        "comli": 10
+    }
+]
